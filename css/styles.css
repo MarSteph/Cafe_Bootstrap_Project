@@ -1,0 +1,7 @@
+body {
+    font-family: "Sofia Sans", sans-serif;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to right, green, grey);
+}
